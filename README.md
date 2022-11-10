@@ -1,3 +1,4 @@
 # hamsterclikcer
 
-this is my simple practice project.
+Hey guys 🙌
+This is my simple practice project.
